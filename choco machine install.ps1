@@ -46,6 +46,4 @@ choco install nordvpn -y
 choco install lightshot -y
 choco install qbittorrent -y
 choco install teracopy -y
-
-
-
+choco install gpg4win -y
