@@ -25,6 +25,8 @@ choco install openjdk -y # use OpenJDK because of licenses
 choco install nodejs -y
 choco install sql-server-management-studio -y
 choco install notepadplusplus -y
+## TODO: learn to install coorectly (https://docs.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup) (https://ohmyposh.dev/docs/installation/customize)
+#choco install oh-my-posh
 
 ## Work
 choco install microsoft-teams -y
