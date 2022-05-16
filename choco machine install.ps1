@@ -43,7 +43,9 @@ choco install hwmonitor -y
 choco install keepassxc -y
 choco install powertoys -y
 choco install nordvpn -y
-choco install lightshot -y
+# replaced by sharex
+#choco install lightshot -y
+choco install sharex -y
 choco install qbittorrent -y
 choco install teracopy -y
 choco install gpg4win -y
