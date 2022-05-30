@@ -19,7 +19,8 @@ choco install git -y
 #choco install wsl2 -y
 choco install docker-desktop -y
 choco install postman -y
-choco install sourcetree -y
+## Sourcetree package is stale
+#choco install sourcetree -y
 choco install vscode -y
 choco install openjdk -y # use OpenJDK because of licenses
 choco install nodejs -y
