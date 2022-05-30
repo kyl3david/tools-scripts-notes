@@ -21,6 +21,8 @@ choco install docker-desktop -y
 choco install postman -y
 ## Sourcetree package is stale
 #choco install sourcetree -y
+## gitextensions replace sourcetree, possibly look at gittyup as well
+choco install gitextensions
 choco install vscode -y
 choco install openjdk -y # use OpenJDK because of licenses
 choco install nodejs -y
