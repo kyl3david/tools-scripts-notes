@@ -20,6 +20,8 @@ choco install microsoft-teams -y
 choco install brave -y
 
 ## Tools
+choco install 7zip -y 
 choco install adobereader -y
 choco install sharex -y
 choco install powertoys -y
+choco install devtoys -y
