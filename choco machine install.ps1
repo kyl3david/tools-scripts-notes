@@ -45,6 +45,7 @@ choco install 7zip -y
 choco install hwmonitor -y
 choco install keepassxc -y
 choco install powertoys -y
+choco install devtoys -y
 choco install nordvpn -y
 # replaced by sharex
 #choco install lightshot -y
