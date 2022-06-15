@@ -25,3 +25,6 @@ choco install adobereader -y
 choco install sharex -y
 choco install powertoys -y
 choco install devtoys -y
+
+## Activity tracking
+choco install activitywatch -y
