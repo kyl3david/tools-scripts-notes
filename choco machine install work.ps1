@@ -52,6 +52,8 @@ code --install-extension streetsidesoftware.code-spell-checker
 #code --install-extension hediet.vscode-drawio
 # Angular Language Service
 code --install-extension Angular.ng-template
+# Prettier - Code formatter
+code --install-extension esbenp.prettier-vscode
 
 code --list-extensions
 
