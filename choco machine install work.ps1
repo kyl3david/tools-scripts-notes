@@ -28,6 +28,8 @@ choco install googlechrome -y
 choco install 7zip -y 
 choco install adobereader -y
 choco install sharex -y
+## cross-platfornm alternative to xshare is flameshot
+# choco install flameshot -y
 choco install powertoys -y
 choco install devtoys -y
 
