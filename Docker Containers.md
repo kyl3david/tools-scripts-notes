@@ -15,6 +15,8 @@ docker run `
     -e "MSSQL_SA_PASSWORD=<YourStrong@Passw0rd>" `
     --name mssql `
     --hostname mssql `
+    --memory="1.5g" `
+    --cpus="2.0" `
     -p 1433:1433 `
     -v $location/data:/var/opt/mssql/data `
     -v $location/log:/var/opt/mssql/log `
