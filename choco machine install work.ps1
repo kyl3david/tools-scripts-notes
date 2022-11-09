@@ -44,8 +44,14 @@ choco install obs-studio -y
 # choco install virtualbox -y
 
 ## dotnet
-### this will install the lastest version, to get other dotnet versions you will need to specify the version e.g. .NET 5 or .NET 6
+### lastest, this will install the lastest version, to get other dotnet versions you will need to specify the version e.g. .NET 5 or .NET 6
 choco install dotnet-sdk -y
+# .NET 5
+choco install dotnet-5.0-sdk -y
+# .NET 6
+choco install dotnet-6.0-sdk -y
+# .NET 7
+choco install dotnet-7.0-sdk -y
 
 ## Activity tracking
 choco install activitywatch -y
