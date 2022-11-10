@@ -12,6 +12,8 @@ wsl --install
 
 ## Coding
 choco install git -y
+# using gitextensions instead of sourcetree
+choco install gitextensions -y
 choco install postman -y
 choco install vscode -y
 choco install nodejs -y
