@@ -58,6 +58,9 @@ choco install dotnet-7.0-sdk -y
 ## Activity tracking
 choco install activitywatch -y
 
+## DevOps
+choco install azure-cli -y
+
 #########################
 ##### Node JS packages
 #########################
